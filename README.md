@@ -1,12 +1,10 @@
-#### 你好，我是『gy77』,一位CV领域爱好者。
+#### Hello Word
 
-:link: [我的CSDN](https://blog.csdn.net/qq_39435411)  
+:link: [CSDN](https://blog.csdn.net/qq_39435411)  
 
-:link: [我的博客园](https://www.cnblogs.com/gy77/)
+:link: [cnblogs](https://www.cnblogs.com/gy77/)
 
- :email: 我的邮箱：gaoying2020@163.com
-
-欢迎大家star :star:
+ :email: Email：gaoying2020@163.com
 
 
 <a href="https://github.com/gy-7">
