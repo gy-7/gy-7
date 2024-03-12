@@ -1,4 +1,4 @@
-#### Hello Word
+#### print("Hello Word 🚀")
 
 :link: [CSDN](https://blog.csdn.net/qq_39435411)  
 
